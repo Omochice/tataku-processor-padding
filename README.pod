@@ -1,0 +1,8 @@
+---
+name: tataku-processor-markdown_section
+description: A processor module for tataku.vim that insert some words before/after.
+---
+
+=pod
+
+=cut
