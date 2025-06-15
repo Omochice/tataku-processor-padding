@@ -1,5 +1,5 @@
 import { as, assert, is } from "jsr:@core/unknownutil@4.3.0";
-import type { ProcessorFactory } from "jsr:@omochice/tataku-vim@1.1.0";
+import type { ProcessorFactory } from "jsr:@omochice/tataku-vim@1.2.1";
 
 const isOption = is.ObjectOf({
   before: as.Optional(is.ArrayOf(is.String)),
